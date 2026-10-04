@@ -1,0 +1,6 @@
+{
+  "name": "PaySetu - Bharat UPI & Payment Gateway",
+  "description": "Modern and secure UPI and payment gateway platform with instant QR payments, webhook verification, refund management, and bilingual support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
